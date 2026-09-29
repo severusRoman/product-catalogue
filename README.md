@@ -6,8 +6,8 @@ Visitors can search and filter the public catalogue. Registered users can add, e
 
 > **Course:** CSE 472 Web and Internet Programming, Southeast University
 > **Assignment:** Individual Project (Full-Stack Mini Web Application)
-> **Author:** `YOUR NAME` (`YOUR STUDENT ID`)
-> **Live site:** `PASTE YOUR LIVE URL HERE`
+> **Author:** `Roman` (`2023200000553`)
+> **Live site:*https://severus-shelfwise.rf.gd/product-catalogue/* ``
 
 ## Features
 
