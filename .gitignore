@@ -1,0 +1,7 @@
+config/config.php
+uploads/products/*
+!uploads/products/.gitkeep
+*.log
+.DS_Store
+.vscode/
+.idea/
